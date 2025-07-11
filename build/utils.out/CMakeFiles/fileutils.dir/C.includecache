@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/firefly/GitHUb测试/YOLOv8_RK3588_object_obb/utils/file_utils.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
